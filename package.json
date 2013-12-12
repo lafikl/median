@@ -1,0 +1,25 @@
+{
+  "name": "median",
+  "version": "0.0.0",
+  "description": "a small module to calculate median",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lafikl/median"
+  },
+  "keywords": [
+    "median"
+  ],
+  "author": "Khalid Lafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lafikl/median/issues"
+  },
+  "homepage": "https://github.com/lafikl/median",
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
+}
