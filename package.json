@@ -1,8 +1,8 @@
 {
   "name": "median",
   "version": "0.0.0",
-  "description": "a small module to calculate median",
-  "main": "index.js",
+  "description": "a small module for node and browser to calculate median",
+  "main": "median.js",
   "scripts": {
     "test": "tap ./tests"
   },
@@ -11,7 +11,9 @@
     "url": "http://github.com/lafikl/median"
   },
   "keywords": [
-    "median"
+    "median",
+    "browser",
+    "browserify"
   ],
   "author": "Khalid Lafi",
   "license": "MIT",
