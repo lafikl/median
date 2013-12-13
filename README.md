@@ -4,6 +4,14 @@ Median
 A small module for node and browser to calculate median.
 
 
+## Install
+**NPM**
+```
+$ npm install median
+```
+
+or you can download the repo and use `median.js`
+
 ## Usage
 
 **Node.js**
