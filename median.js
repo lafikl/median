@@ -13,7 +13,7 @@
       return a - b
     })
 
-    console.log(values)
+    
     var half = Math.floor(values.length / 2)
 
     if ( values.length % 2 )
